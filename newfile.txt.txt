@@ -1,3 +1,0 @@
-Git has exploded in popularity in recent years. The version control system is used by huge open source projects like Linux with thousands of contributors, teams of various sizes, solo developers and even students.
-
-Beginners are often terrified by all the cryptic commands and arguments that git requires. But you don't need to know all of that to get started. You can begin by mastering a handful of the most often used ones, and then slowly build from there. And this is exactly what we will teach you today. Let's begin!
